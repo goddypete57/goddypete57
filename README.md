@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/69816875/147891972-5fc5b29d-2235-448f-b833-d345220e8f24.jpg "Header")]
+(https://user-images.githubusercontent.com/69816875/147891972-5fc5b29d-2235-448f-b833-d345220e8f24.jpg "Header")
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Godwin peter,A dedicated mobile developer with a strong foundation in React Native and <br>native Android development, specializing in crafting intuitive and functional applications.<br> Over the course of my career, I have contributed to multiple impactful projects across diverse domains, <br>showcasing my skills in both frontend UI development and backend integration.
